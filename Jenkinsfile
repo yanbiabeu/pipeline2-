@@ -7,7 +7,7 @@ pipeline
 		{
 			steps
 			{
-				git 'https://github.com/iamdevopstrainer/DevOpsClassCodes'
+				git 'https://github.com/iamdevopstrainer/batch15jun.git'
 			}
 		}
 		
