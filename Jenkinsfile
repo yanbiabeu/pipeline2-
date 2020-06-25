@@ -7,7 +7,7 @@ pipeline
 		{
 			steps
 			{
-				git 'https://github.com/yanbiabeu/pipeline2-.git'
+				git 'https://github.com/iamdevopstrainer/DevOpsClassCodes'
 			}
 		}
 		
